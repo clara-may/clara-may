@@ -6,11 +6,11 @@
 
 ## Web Data Analyst | Digital Marketing & Data
 
-## 📬 About me
+## ✨ About me
 The way data can solve real-world strategic challenges fascinates me, which is why I chose to specialize in **Data Analytics** after completing a Master in Management with a specialization in **Marketing**.  
 My hybrid background in digital marketing and data allows me to understand and bridge the gap between business objectives and technical data analysis.
 
-## 🚀 What I do currently
+## 📌 What I do currently
 Currently a **Web Analytics Consultant** at **Converteo**, I work for **L'Oréal USA** on their web tracking strategy:
 
 My missions include:
@@ -52,7 +52,7 @@ My missions include:
 ## 🎓 Education & Certifications
 * **MS Digital Marketing & Data** – KEDGE Business School
 * **Master in Management, Brand Management and Services Marketing** – NEOMA Business School
-* **Certifications**: Google Analytics (Google Skillshop GAIQ), Generative AI (Neoma BS), Google Tag Manager Fundamentals (Analytics Mania)
+* **Certifications**: Google Analytics (Google Skillshop GAIQ), Google Tag Manager Fundamentals (Analytics Mania), Generative AI (Neoma BS) 
 
 <td align="center">
   <a href="https://skillshop.credential.net/9d8af29d-bcf0-4720-8ab8-e6e2147ae170#acc.NfM6VqH7"><img src="certification-badges/google-analytics-certification-badge.png" alt="Google Analytics Certification" width="120" /></a>
@@ -61,6 +61,6 @@ My missions include:
   <a href="https://openbadgefactory.com/v1/assertion/527ee8234490a8167787256f3c9b4901b6327230.html"><img src="certification-badges/generative-ai-certification-badge.png" alt="Generative AI Certification" width="120" /></a>
 </td>
 
-## 📫 How to reach me
+## 📬 How to reach me
 * **LinkedIn**: [linkedin.com/in/clara-mayon](https://www.linkedin.com/in/clara-mayon)
 * **Email**: mayon.clara@gmail.com
