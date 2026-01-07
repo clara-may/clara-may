@@ -46,12 +46,12 @@ My missions include:
 
 ## 💼 Professional Background
 
-* **Web Analyst Consultant @ L'Oréal USA (via Converteo)** : collecting web data through GTM to provide commercial insights via GA4
-* **Market Analyst @ Média Diffusion**: transforming market data (GfK) into strategic recommendations for book publishers
+* **2025-2026 : Web Analyst Consultant @ L'Oréal USA (via Converteo)** : collecting web data through GTM to provide commercial insights via GA4
+* **2023-2025 : Market Analyst @ Média Diffusion**: transforming market data (GfK) into strategic recommendations for book publishers
 
 ## 🎓 Education & Certifications
-* **MS Digital Marketing & Data** – KEDGE Business School
-* **Master in Management, Brand Management and Services Marketing** – NEOMA Business School
+* **2025-2026 : MS Digital Marketing & Data** – KEDGE Business School
+* **2022-2025 : MiM, Brand Management and Services Marketing** – NEOMA Business School
 * **Certifications**: Google Analytics (Google Skillshop GAIQ), Google Tag Manager Fundamentals (Analytics Mania), Generative AI (Neoma BS) 
 
 <td align="center">
