@@ -52,8 +52,11 @@ My missions include:
 ## 🎓 Education & Certifications
 * **2025-2026 : MS Digital Marketing & Data** – KEDGE Business School
 * **2022-2025 : MiM, Brand Management and Services Marketing** – NEOMA Business School
-* **Certifications**: Google Analytics (Google Skillshop GAIQ), Google Tag Manager Fundamentals (Analytics Mania), Generative AI (Neoma BS) 
+* **Certifications**: Data Analyst Associate (DataCamp), Google Analytics (Google Skillshop GAIQ), Google Tag Manager Fundamentals (Analytics Mania), Generative AI (Neoma BS) 
 
+<td align="center">
+  <a href="https://www.datacamp.com/certificate/DAA0012610820776"><img src="certification-badges/DA Associate - badge with outline.png" alt="Data Analyst Associate Certification" width="120" /></a>
+</td>
 <td align="center">
   <a href="https://skillshop.credential.net/9d8af29d-bcf0-4720-8ab8-e6e2147ae170#acc.NfM6VqH7"><img src="certification-badges/google-analytics-certification-badge.png" alt="Google Analytics Certification" width="120" /></a>
 </td>
